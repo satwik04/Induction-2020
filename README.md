@@ -31,5 +31,10 @@ Come and explore!<br>
 
 - [X] Task 4 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Competitive%20Coding/CP%20Day%202">Competitive Coding : Day 2</a>
 
+- [X] Task 5 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/WebDevelopment/Task1">Web Development : Day 1</a>
+
+- [X] Task 6 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/WebDevelopment/Task%202">Web Development : Day 2</a>
+
+- [ ] Task 7 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Python%20%2B%20ML/Task%201">Python : Task 1</a>
 <br>
 <b>P.S.</b>- Throughout the four weeks you will be given assignments related to all the above fields in the respective weeks and you will have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
